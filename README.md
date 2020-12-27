@@ -5,4 +5,4 @@ License is in the LICENSE file.
 
 Current tools:
 1. Internet test/problem detector
-2. (coming very soon) Random number generator 
+2. Random number generator 
