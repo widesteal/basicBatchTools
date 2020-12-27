@@ -1,4 +1,4 @@
-ECHO OFF
+@ECHO OFF
 echo IP CONFIGURATION:
 title Starting...
 echo ---------------
